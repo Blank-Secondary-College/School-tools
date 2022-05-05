@@ -12,7 +12,7 @@ quizlet bot
 
 ## Inspiration
 
-A fair bit inspiration has been from this project: <https://github.com/ahfarmer/calculator>, for the mathspace calculator project
+A fair bit inspiration has been from <https://github.com/ahfarmer/calculator>, for the mathspace calculator project
 
 ## Getting in contact
 
