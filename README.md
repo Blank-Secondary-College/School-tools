@@ -21,6 +21,7 @@ You can email me at <thublet@protonmail.com>
 ## Help
 
 >You can get in contact with me
+
 >You can add an issue to <https://github.com/Blank-Secondary-College/School-tools/issues>
 
 >You can also add a pull request if you know how to fix the problem
